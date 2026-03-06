@@ -26,8 +26,8 @@ bio: "Olaf Luebben works in social pedagogy, integrating insights from humanisti
   
   and extensive experience with complex systems and high‑performance computing.\n"
 affiliations:
-  - name: "Meta AI"
-    url: "https://ai.meta.com/"
+  - name: "TCD"
+    url: "https://www.tcd.ie/physics/"
 links:
   - icon: "at-symbol"
     url: "mailto:luebbeno@tcd.ie"
@@ -41,7 +41,7 @@ links:
   - icon: "academicons/google-scholar"
     url: "https://scholar.google.com/citations?user=Du8tev8AAAAJ&hl=en&authuser=1"
   - icon: "academicons/orcid"
-    url: "https://orcid.org/0000-0002-1825-0097"
+    url: "https://orcid.org/0000-0001-9507-0367"
 interests:
   - "Large Language Models"
   - "Computer Vision"
