@@ -14,13 +14,15 @@ postnominals:
 status:
   icon: "☕️"
 role: "Senior AI Research Scientist"
-bio: "Olaf Lübben is a Senior AI Research Scientist at Meta AI. His research
+bio: "Dr. Olaf Luebben is a Dublin‑based psychotherapist whose work integrates humanistic and psychoanalytic perspectives,
 
-  has been published in top conferences like NeurIPS and ICML, with over
-
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-
-  while ensuring ethical development.\n"
+  grounded in extensive training at Dublin Business School and informed by earlier doctoral research in physics at Trinity College Dublin,
+  
+  where he developed strong analytical and investigative skills.
+  
+  His approach combines precision in thought with a compassionate clinical presence,
+  
+  shaped by personal development work, experiential training, and a background in complex problem‑solving and high‑performance computing.\n"
 affiliations:
   - name: "Meta AI"
     url: "https://ai.meta.com/"
