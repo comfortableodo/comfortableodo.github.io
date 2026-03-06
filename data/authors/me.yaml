@@ -10,25 +10,27 @@ name:
   pronouns: "he/him"
 postnominals:
   - "PhD"
-  - "MIEEE"
+  - "MA"
 status:
   icon: "☕️"
-role: "Senior AI Research Scientist"
-bio: "Olaf Luebben is a Dublin‑based psychotherapist whose work integrates humanistic and psychoanalytic perspectives,
+role: "Social pedagogue"
+bio: "Olaf Luebben works in social pedagogy, integrating insights from humanistic and psychoanalytic traditions
 
-  grounded in extensive training at Dublin Business School and informed by earlier doctoral research in physics at Trinity College Dublin,
+  with the analytical precision cultivated during his physics doctorate at Trinity College Dublin.
   
-  where he developed strong analytical and investigative skills.
+  Alongside an MA in Psychotherapy from Dublin Business School, he brings a thoughtful, 
   
-  His approach combines precision in thought with a compassionate clinical presence,
+  inquiry‑driven approach to understanding human development and social contexts.
   
-  shaped by personal development work, experiential training, and a background in complex problem‑solving and high‑performance computing.\n"
+  His practice is shaped by rigorous academic training, personal process work, 
+  
+  and extensive experience with complex systems and high‑performance computing.\n"
 affiliations:
   - name: "Meta AI"
     url: "https://ai.meta.com/"
 links:
   - icon: "at-symbol"
-    url: "mailto:alex.johnson@example.com"
+    url: "mailto:luebbeno@tcd.ie"
     label: "E-mail Me"
   - icon: "brands/x"
     url: "https://x.com/example"
@@ -37,7 +39,7 @@ links:
   - icon: "brands/linkedin"
     url: "https://www.linkedin.com/in/example/"
   - icon: "academicons/google-scholar"
-    url: "https://scholar.google.com/citations?user=example"
+    url: "https://scholar.google.com/citations?user=Du8tev8AAAAJ&hl=en&authuser=1"
   - icon: "academicons/orcid"
     url: "https://orcid.org/0000-0002-1825-0097"
 interests:
@@ -97,10 +99,13 @@ skills:
 languages:
   - name: "English"
     level: 5
+    label: "Fluent"
+  - name: "German"
+    level: 5
     label: "Native"
   - name: "Spanish"
-    level: 4
-    label: "Fluent"
+    level: 2
+    label: "Basic"
 awards:
   - title: "Best Paper Award"
     awarder: "NeurIPS"
