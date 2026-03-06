@@ -42,9 +42,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I focus my research on surface science, nanomaterials, and scanning probe microscopy, exploring how atomic‑scale structure and electronic behaviour shape the properties of materials. In my work, I investigate how molecular adsorption, defects, oxidation states, and nanocluster formation influence surfaces such as CeO₂, WO₂/W(110), graphene, MoO₂, and other metal oxides. I combine STM/STS, spectroscopy, and computational modelling to uncover nanoscale mechanisms and to understand how subtle structural variations drive changes in electronic, magnetic, and catalytic behaviour.
 
         Please reach out to collaborate 😃
     design:

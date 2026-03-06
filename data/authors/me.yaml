@@ -14,7 +14,7 @@ postnominals:
 status:
   icon: "☕️"
 role: "Senior AI Research Scientist"
-bio: "Dr. Olaf Luebben is a Dublin‑based psychotherapist whose work integrates humanistic and psychoanalytic perspectives,
+bio: "Olaf Luebben is a Dublin‑based psychotherapist whose work integrates humanistic and psychoanalytic perspectives,
 
   grounded in extensive training at Dublin Business School and informed by earlier doctoral research in physics at Trinity College Dublin,
   
@@ -55,10 +55,10 @@ education:
       text: "Download dissertation"
       url: "/resume.pdf"
       icon: "hero/arrow-down-tray"
-  - degree: "MS Computer Science"
-    institution: "Carnegie Mellon University"
-    start: "2013-09-01"
-    end: "2015-05-31"
+  - degree: "PhD Physics"
+    institution: "Trinity College Dublin"
+    start: "2008-09-01"
+    end: "2013-03-31"
   - degree: "BS Computer Science"
     institution: "MIT"
     start: "2009-09-01"
