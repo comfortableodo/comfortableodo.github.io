@@ -1,6 +1,6 @@
 ---
 title: Selecting the tip electron orbital for scanning tunneling microscopy imaging
-  with sub-? ngstrom lateral resolution
+  with sub-ångström lateral resolution
 authors:
 - IGOR SHVETS
 - SERGEY BOZHKO
@@ -10,5 +10,5 @@ date: '2010-01-01'
 publishDate: '2026-03-06T22:53:20.869319Z'
 publication_types:
 - article-journal
-publication: '*Institute of Physics*'
+publication: '*EPL (Europhysics Letters)*'
 ---
